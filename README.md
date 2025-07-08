@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"
-  <title>Jeeva Bro – Roast King</title>
+  <title>Jeeva – Roast King</title>
   <style>
     body {
       margin: 0;
@@ -57,7 +57,7 @@
 </head>
 <body>
 
-  <h1>Welcome, Jeeva Bro 🔥</h1>
+  <h1>Welcome, Jeeva-zoro </h1>
   <p>You’ve entered the ultimate roast zone 👑</p>
   <button onclick="dropRoast()">Unleash Roast</button>
 
@@ -70,7 +70,11 @@
       "Your roast skills? Certified microwave level 🔥",
       "Even ChatGPT needed a second to recover from your vibe 😎",
       "You didn’t wake up late... Time just knew you weren’t ready ⏰"
+      "ChatGPT kuda nalla roast panran da.. nee eppo da pannuva 😭"
+      "Rcb kuda win pannitan da!! nee thothu kitteh irukehh da 📉"
+      "just for da kochukatha 🤌🏼🫂"
     ];
+    
 
     function dropRoast() {
       const randomIndex = Math.floor(Math.random() * roasts.length);

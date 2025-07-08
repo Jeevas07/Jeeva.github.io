@@ -2,14 +2,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Jeeva Bro – Roast King</title>
+  <title>Jeeva – Roast King</title>
   <style>
     body {
       margin: 0;
       padding: 0;
       font-family: 'Segoe UI', sans-serif;
       background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-      color: #fff;
+      color: #00ffd1;
       display: flex;
       flex-direction: column;
       align-items: center;

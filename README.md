@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -70,8 +69,10 @@
       "Your roast skills? Certified microwave level 🔥",
       "Even ChatGPT needed a second to recover from your vibe 😎",
       "You didn’t wake up late... Time just knew you weren’t ready ⏰"
+      "ChatGPT kuda nalla roast panran da.. nee eppo da pannuva 😭"
+      "Rcb kuda win pannitan da!! nee thothu kitteh irukehh da 📉"
+      "just for da kochukatha 🤌🏼🫂"
     ];
-
     function dropRoast() {
       const randomIndex = Math.floor(Math.random() * roasts.length);
       document.getElementById("roastBox").innerText = roasts[randomIndex];

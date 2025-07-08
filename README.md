@@ -71,7 +71,7 @@
       "You didn’t wake up late... Time just knew you weren’t ready ⏰",
       "ChatGPT kuda nalla roast panran da.. nee eppo da pannuva 😭",
       "Rcb kuda win pannitan da!! nee thothu kitteh irukehh da 📉",
-      "just for da kochukatha 🤌🏼🫂"
+      "just for fun da kochukatha 🤌🏼🫂"
     ];
     
     function dropRoast() {
